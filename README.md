@@ -97,10 +97,3 @@
 	<a href="https://www.instagram.com/adrianyev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<p align="center">
-  <a href="https://github.com/adrianyebid?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianyebid&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-</p>
