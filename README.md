@@ -15,7 +15,7 @@
 - :student: I'm currently learning more about `Software Engineering` and `System Design`.
 - :nerd_face: Always `learning new things` and improving my skills.
 
-## 🛠️ My Skills
+## 🛠️ Tech Stack
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
@@ -97,10 +97,9 @@
 	<a href="https://www.instagram.com/adrianyev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/adrianyebid?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianyebid&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img alt="Repositories" src="https://img.shields.io/badge/Explore_My_Repositories-4285F4.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
-</p>
+</div>
+
